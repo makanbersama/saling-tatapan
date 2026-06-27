@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nyamnyam</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f2f5;
+            margin-top: 50px;
+        }
+        img {
+            max-width: 90%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Marvelous!</h1>
+    <p>Dua tiga burung perkutut,
+Jarjit Singh gemar kentut.
+Eh, salah-salah! 🤭
+
+Dua tiga kucing berlari,
+Mana boleh sama dengan saya punya diri!
+Marvelous, marvelous!</p>
+    
+    <br>
+    <img src="muthu.png" alt="Gambarku">
+
+</body>
+</html>
