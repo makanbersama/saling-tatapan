@@ -22,14 +22,17 @@
 <body>
 
     <h1>Marvelous!</h1>
-    <p>Dua tiga burung perkutut,
-Jarjit Singh gemar kentut.
-Eh, salah-salah! 🤭
-
-Dua tiga kucing berlari,
-Mana boleh sama dengan saya punya diri!
-Marvelous, marvelous!</p>
     
+    <p>
+        Dua tiga burung perkutut,<br>
+        Jarjit Singh gemar kentut.<br>
+        Eh, salah-salah! 🤭<br>
+        <br>
+        Dua tiga kucing berlari,<br>
+        Mana boleh sama dengan saya punya diri!<br>
+        Marvelous, marvelous!
+    </p>
+
     <br>
     <img src="muthu.png" alt="Gambarku">
 
